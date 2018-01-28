@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AIPlayer : Player {
-
+    public int fuck = 0;
 
 	// Use this for initialization
 	void Start () {
